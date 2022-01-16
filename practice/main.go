@@ -21,4 +21,5 @@ func main() {
 	fmt.Println("new value of pointer 1:", *pointer1)
 	fmt.Println("Memory address of pointer 1:", pointer1)
 	fmt.Println("Memory address of anInt:", &anInt)
+	fmt.Println("Memory address of anInt:", anInt)
 }
